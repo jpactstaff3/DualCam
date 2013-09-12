@@ -20,7 +20,7 @@
         android:theme="@style/AppTheme" 
         
         >
-        
+        test
         <activity
             android:name="com.cam.dualcam.DualCamActivity"
             android:label="@string/app_name" 
